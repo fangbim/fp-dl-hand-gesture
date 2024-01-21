@@ -1,0 +1,36 @@
+description: Ultralytics best model trained on /content/Common-Hand-Gestures-(Emoji)-6/data.yaml
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+date: '2024-01-20T11:46:12.470982'
+version: 8.1.3
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: Call-Me
+  1: Fingers-Crossed
+  2: Fingers-Spread
+  3: Hand-Raised
+  4: Heart
+  5: Italian-Gesture
+  6: Left-Fist
+  7: Live-Long-Prosper
+  8: Love-You
+  9: Middle
+  10: Okay
+  11: Oncoming-Punch
+  12: Peace
+  13: Pinched-Fingers
+  14: Point-Down
+  15: Point-Left
+  16: Point-Right
+  17: Pointing-Up
+  18: Praying-Hands
+  19: Raised-Fist
+  20: Right-Fist
+  21: Rock
+  22: Thumbs-Down
+  23: Thumbs-Up
